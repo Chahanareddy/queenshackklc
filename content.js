@@ -1,5 +1,5 @@
 const SPACESHIP_GIF_URL = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3FjN2ZrZjNwNnp6bzFoMDBxY251aDB2dDZ1MXZiaXluODg0ZXV1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4KhQo2MESJkc6QbS/giphy.gif"; // Spaceship GIF
-let currentSpaceship = null;
+let currentSpaceship = null; 
 
 (function addAnimationCSS() {
   if (document.getElementById('animationStyle')) return;
