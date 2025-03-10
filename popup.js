@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", () => {
+document.addEventListener("DOMContentLoaded", () => { 
   const goalContainer = document.getElementById("goalContainer");
   const timerContainer = document.getElementById("timerContainer");
 
