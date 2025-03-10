@@ -1,4 +1,4 @@
-console.log("Background script is running!");
+console.log("Background script is running!"); 
 
 let currentSession = null; // Tracks the current session
 let lastCaptureTime = 0;   // Tracks the last time a screenshot was taken
